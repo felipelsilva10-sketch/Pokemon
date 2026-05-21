@@ -140,3 +140,8 @@ background-color: #f17F;
 .card.raio .barra-preenchimento{
     background-color: #dceb0a;
 }
+.cards-lista{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
